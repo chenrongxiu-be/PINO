@@ -21,9 +21,9 @@ The implementation is based on Python with the following dependencies:
 The dataset and pre-trained model used in this study are provided below and can be directly loaded within the accompanying scripts.
 Due to the memory limits of the cloud storage service, only the data corresponding to the simply supported beam case (Dataset #1 in the paper) are made available.
 
-[Dataset](https://github.com/chenrongxiu-be/PINO)*
+[Dataset](https://stkyotouac-my.sharepoint.com/:f:/g/personal/chen_rongxiu_72m_st_kyoto-u_ac_jp/EtBH-Nyn3VxPnEiJ6GQfdgoB8WMlcfp7eUgRAjXF2wAzAA?e=Waos0u)*
 
-[Pre-trained model](https://github.com/chenrongxiu-be/PINO)*
+[Pre-trained model](https://stkyotouac-my.sharepoint.com/:f:/g/personal/chen_rongxiu_72m_st_kyoto-u_ac_jp/Eiqa-38Eu9dGoc0wnOrEzXwBJFDnpNFrHy6n7DLjpqGgMw?e=2SMoBQ)*
 
 **Shared via OneDrive. If you experience access issues, please try different devices or web browsers (Google Chrome is recommended).* 
 
