@@ -36,3 +36,15 @@ Due to the memory limits of the cloud storage service, only the data correspondi
   year         = {2025}
 }
 ```
+```
+@article{chen2025tfno,
+  author = {Rongxiu Chen and Chul-Woo Kim and Jiaji Wang},
+  title = {Real-time surrogate model of vehicle-bridge interaction using a multiple-input neural operator},
+  journal = {Automation in Construction},
+  volume = {180},
+  pages = {106576},
+  year = {2025},
+  issn = {0926-5805},
+  doi = {https://doi.org/10.1016/j.autcon.2025.106576}
+}
+```
