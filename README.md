@@ -1,5 +1,5 @@
 # PINO
-This repository provides the official implementation of the paper:
+This repository provides a demonstration implementation of the paper:
 
 * [Physics-informed neural operator for forecasting vehicle-induced bridge vibrations](https://github.com/chenrongxiu-be/PINO)
 
