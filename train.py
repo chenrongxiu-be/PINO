@@ -756,15 +756,15 @@ class Transformer_layer(nn.Module):
         )
 
         # Feed-forward network
-        self.ffn = nn.ModuleList(
+        self.FFN = nn.ModuleList(
             [
                 nn.Linear(embed_dim, hidden_dim),
                 nn.GELU(),
             ]
         )
         if dropout > 0.0:
-            self.ffn.append(nn.Dropout(p=dropout))
-        self.ffn.append(nn.Linear(hidden_dim, embed_dim))
+            self.FFN.append(nn.Dropout(p=dropout))
+        self.FFN.append(nn.Linear(hidden_dim, embed_dim))
 
         # Normalization
         self.last_layer = last_layer
@@ -815,7 +815,7 @@ class Transformer_layer(nn.Module):
             # Feed-forward network with residual connection
             x_skip = x
             x_norm = self.norm[1](x)
-            for layer in self.ffn:
+            for layer in self.FFN:
                 x_norm = layer(x_norm)
             x = self.dropout(x_norm)
             out = x + x_skip
