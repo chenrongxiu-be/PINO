@@ -33,11 +33,11 @@ Due to the memory limits of the cloud storage service, only the data correspondi
 
 ## Citing
 ```
-@unpublished{rongxiu2026pino,
+@article{rongxiu2026pino,
   author       = {Rongxiu Chen and Chul-Woo Kim and Jiaji Wang},
-  title        = {Physics-informed neural operator for forecasting vehicle-induced bridge vibrations},
-  note         = {Under review in Elsevier},
-  year         = {2025}
+  title        = {Physics-informed neural operator for forecasting vehicle-induced bridge vibration trajectories},
+  journal      = {Engineering Applications of Artificial Intelligence},
+  year         = {2026}
 }
 ```
 ```
