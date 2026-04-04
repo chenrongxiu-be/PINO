@@ -1,7 +1,7 @@
 # PINO
 This repository provides a demonstration implementation of the paper:
 
-* [Physics-informed neural operator for forecasting vehicle-induced bridge vibration trajectories](https://github.com/chenrongxiu-be/PINO)
+* [Physics-informed neural operator for forecasting vehicle-induced bridge vibration trajectories](https://doi.org/10.1016/j.engappai.2026.114708)
 
 ## Abstract
 Simulating vehicle-bridge interaction (VBI) dynamics is critical in bridge engineering for investigating structural performance, dynamic properties, and impact factor. However, the high computational cost often limits extensive simulations and real-time applications in practice. This paper proposes a physics-informed neural operator (PINO) for forecasting vehicle-induced bridge response trajectories. The PINO integrates a custom loss function with operator learning, that embeds the physical principles of VBI dynamics. First, the performance of the proposed method is evaluated on different bridge structures under varying vehicle parameters and structural material properties, validating its accuracy and efficiency in forecasting vehicle-induced bridge vibration trajectories. Then, the PINO is evaluated in stochastic dynamic analysis for applications in structural health monitoring and reliability-based design of bridge, where its real-time inference capability significantly accelerates the overall analysis process. Additionally, an efficient surrogate modeling scheme, that combines physics-guided initialization and transfer learning, is proposed to enable rapid knowledge transfer between different bridges, even with very limited data. Comparative analysis highlights the advantages of the PINO over purely data-driven counterparts in terms of accuracy, training efficiency, and robustness in small-data regimes. To support practical implementation of the proposed approach, the guidance for configuring loss weights is provided.
@@ -34,16 +34,20 @@ Due to the memory limits of the cloud storage service, only the data correspondi
 ## Citing
 ```
 @article{rongxiu2026pino,
-  author       = {Rongxiu Chen and Chul-Woo Kim and Jiaji Wang},
-  title        = {Physics-informed neural operator for forecasting vehicle-induced bridge vibration trajectories},
-  journal      = {Engineering Applications of Artificial Intelligence},
-  year         = {2026}
+  title = {Physics-informed neural operator for forecasting vehicle-induced bridge vibration trajectories},
+  author = {Rongxiu Chen and Chul-Woo Kim and Jiaji Wang},
+  journal = {Engineering Applications of Artificial Intelligence},
+  volume = {176},
+  pages = {114708},
+  year = {2026},
+  issn = {0952-1976},
+  doi = {https://doi.org/10.1016/j.engappai.2026.114708}
 }
 ```
 ```
 @article{rongxiu2025tfno,
-  author = {Rongxiu Chen and Chul-Woo Kim and Jiaji Wang},
   title = {Real-time surrogate model of vehicle-bridge interaction using a multiple-input neural operator},
+  author = {Rongxiu Chen and Chul-Woo Kim and Jiaji Wang},
   journal = {Automation in Construction},
   volume = {180},
   pages = {106576},
