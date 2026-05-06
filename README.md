@@ -29,7 +29,7 @@ Due to the memory limits of the cloud storage service, only the data correspondi
 
 [Pre-trained model](https://stkyotouac-my.sharepoint.com/:f:/g/personal/chen_rongxiu_72m_st_kyoto-u_ac_jp/Eiqa-38Eu9dGoc0wnOrEzXwBJFDnpNFrHy6n7DLjpqGgMw?e=2SMoBQ)*
 
-**Shared via OneDrive. If you experience access issues, please try different devices or web browsers (Google Chrome is recommended).* 
+**Shared via OneDrive. If you encounter access issues, please try using a different device or web browser. Google Chrome is recommended. If the downloaded files appear to be corrupted, please download the files individually rather than downloading the entire folder at once.* 
 
 ## Citing
 ```
