@@ -25,9 +25,9 @@ The implementation is based on Python with the following dependencies:
 The dataset and pre-trained model used in this study are provided below and can be directly loaded within the accompanying scripts.
 Due to the memory limits of the cloud storage service, only the data corresponding to the simply supported beam case (Dataset #1 in the paper) are made available.
 
-[Dataset](https://stkyotouac-my.sharepoint.com/:f:/g/personal/chen_rongxiu_72m_st_kyoto-u_ac_jp/EtBH-Nyn3VxPnEiJ6GQfdgoB8WMlcfp7eUgRAjXF2wAzAA?e=Waos0u)*
+[Dataset](https://stkyotouac-my.sharepoint.com/:f:/g/personal/chen_rongxiu_72m_st_kyoto-u_ac_jp/IgDQR_jcp91cT5xIiehkH3YKAfFjJXH6e3lIEQI1xdsAMwA?e=VMXbl0)*
 
-[Pre-trained model](https://stkyotouac-my.sharepoint.com/:f:/g/personal/chen_rongxiu_72m_st_kyoto-u_ac_jp/Eiqa-38Eu9dGoc0wnOrEzXwBJFDnpNFrHy6n7DLjpqGgMw?e=2SMoBQ)*
+[Pre-trained model](https://stkyotouac-my.sharepoint.com/:f:/g/personal/chen_rongxiu_72m_st_kyoto-u_ac_jp/IgAqmvt_BLvXRqHNMJzqxM18ASRQ56TRax8up-wy46ahoDM?e=mG8ZoK)*
 
 **Shared via OneDrive. If you encounter access issues, please try using a different device or web browser. Google Chrome is recommended. If the downloaded files appear to be corrupted, please download the files individually rather than downloading the entire folder at once.* 
 
